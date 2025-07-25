@@ -1,0 +1,6 @@
+{"time":"2025-07-25T12:58:00.172212418+03:00","level":"INFO","msg":"User logged in","user_id":123,"ip":"192.168.1.1"}
+{"time":"2025-07-25T12:58:01.172895977+03:00","level":"INFO","msg":"User logged in","user_id":123,"ip":"192.168.1.1"}
+{"time":"2025-07-25T12:58:02.173795037+03:00","level":"INFO","msg":"User logged in","user_id":123,"ip":"192.168.1.1"}
+{"time":"2025-07-25T12:58:03.174041088+03:00","level":"INFO","msg":"User logged in","user_id":123,"ip":"192.168.1.1"}
+{"time":"2025-07-25T12:58:04.175167083+03:00","level":"INFO","msg":"User logged in","user_id":123,"ip":"192.168.1.1"}
+{"time":"2025-07-25T12:58:05.175368131+03:00","level":"INFO","msg":"User logged in","user_id":123,"ip":"192.168.1.1"}
